@@ -1,6 +1,8 @@
 # SwiftyTweet
 I like Swift as a programming language, am trying to use it as much as possible. This is my take on on using Swift as a script to allow photographers to share their work on Twitter
 
+![swiftyTweet-page-001](https://user-images.githubusercontent.com/6857606/84586193-f5ecbd80-ae49-11ea-9144-93a8597ed16f.jpg)
+
 ## Problem Statement
 While Instagram is the current defacto social network for photographers to share our work, I decided to also share my work on Twitter! As most tweets are generally in text format, having graphic visuals might give an extra edge to stand out in that social media platform. However, the common issue that I normally face is scheduling the tweets, we may spend hours editing the photos but we may not share them daily. 
 
